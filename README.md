@@ -6,4 +6,4 @@
 
 ## large View
 
-![Alt text](<Screenshot (34).png>)
+![Alt text](<Screenshot (34).png>) 
